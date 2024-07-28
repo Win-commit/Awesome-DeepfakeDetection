@@ -12,7 +12,7 @@ These models use unimodel features to do detect,either video features or audio f
 
 |  Title  |   Venue  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|
-
+|[VideoFACT: Detecting Video Forgeries Using Attention, Scene Context, and Forensic Traces](https://arxiv.org/abs/2211.15775) | WACV,2024 | [github](https://github.com/ductai199x/videofact-wacv-2024) |-|
 
 
 ## Multi-model Deepfake Detection
