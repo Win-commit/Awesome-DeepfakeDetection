@@ -21,11 +21,14 @@ These models use both video and audio features to do detect false video or false
 |:--------|:--------:|:--------:|:--------:|
 |[AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection](https://arxiv.org/abs/2406.02951v1)| CVPR2024 | - | - |
 |[Recurrent Convolutional Structures for Audio Spoof and Video Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/9105097) | IEEE Journal of Selected Topics in Signal Processing,2020 | [github](https://github.com/nviable/xcepttemporal-deepfake-detection) | - |
-|[PVASS-MDD: Predictive Visual-audio Alignment Self-supervision for Multimodal Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10233898)| IEEE TCSVT 2023| - | - |
-|[Not made for each other– Audio-Visual Dissonance-based Deepfake Detection and Localization](https://arxiv.org/pdf/2005.14405v3) | ACM MM 2020 | [github](https://github.com/abhinavdhall/deepfake)| - |
+|[PVASS-MDD: Predictive Visual-audio Alignment Self-supervision for Multimodal Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10233898)| IEEE TCSVT2023| - | - |
+|[Not made for each other– Audio-Visual Dissonance-based Deepfake Detection and Localization](https://arxiv.org/pdf/2005.14405v3) | ACM MM2020 | [github](https://github.com/abhinavdhall/deepfake)| - |
 
 ## Survey
 
+|  Title  |   Venue  | 
+|:--------|:--------:|
+|[Generation and detection of manipulated multimodal audiovisual content:Advances, trends and open challenges](https://www.sciencedirect.com/science/article/pii/S1566253523004190) | Information Fusion2024 |
 
 
 
