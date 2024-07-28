@@ -18,6 +18,12 @@ These models use both video and audio features to do detect false video or false
 |  Title  |   Venue  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|
 |[AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection](https://arxiv.org/abs/2406.02951v1)| CVPR2024 | - | - |
+|[Recurrent Convolutional Structures for Audio Spoof and Video Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/9105097) | IEEE Journal of Selected Topics in Signal Processing,2020 | [github](https://github.com/nviable/xcepttemporal-deepfake-detection) | - |
+|[PVASS-MDD: Predictive Visual-audio Alignment Self-supervision for Multimodal Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10233898)| IEEE TCSVT 2023| - | - |
+|[Not made for each other– Audio-Visual Dissonance-based Deepfake Detection and Localization](https://arxiv.org/pdf/2005.14405v3) | ACM MM 2020 | [github](https://github.com/abhinavdhall/deepfake)| - |
+
+## Survey
+
 
 
 
