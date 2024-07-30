@@ -26,7 +26,7 @@ These models use both video and audio features to do detect false video or false
 |[Not made for each other– Audio-Visual Dissonance-based Deepfake Detection and Localization](https://arxiv.org/pdf/2005.14405v3) | ACM MM,2020 | [github](https://github.com/abhinavdhall/deepfake)| - |
 |[Joint Audio-Visual Deepfake Detection](https://openaccess.thecvf.com//content/ICCV2021/papers/Zhou_Joint_Audio-Visual_Deepfake_Detection_ICCV_2021_paper.pdf) | ICCV,2021| - | - |
 |[FUSION AND ORTHOGONAL PROJECTION FOR IMPROVED FACE-VOICE ASSOCIATION](https://arxiv.org/pdf/2208.10238v1) | ICASSP,2022| [github](https://github.com/msaadsaeed/FOP) | - |
-|[CONTRASTIVE AUDIO-VISUAL MASKED AUTOENCODER](https://arxiv.org/abs/2210.07839) | ICLR,2023 | [github](https://github.com/yuangongnd/cav-mae.)| - |
+|[CONTRASTIVE AUDIO-VISUAL MASKED AUTOENCODER](https://arxiv.org/abs/2210.07839) | ICLR,2023 | [github](https://github.com/yuangongnd/cav-mae)| - |
 |[AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake](https://ieeexplore.ieee.org/document/10081373) |  TIFS,2023 | [github](https://github.com/SYSU-DISG/AVoiD-DF)| - |
 |[Lost in Translation: Lip-Sync Deepfake Detection from Audio-Video Mismatch](https://arxiv.org/abs/2401.15668v1) | CVPR Workshop,2024 | - | - |
 
