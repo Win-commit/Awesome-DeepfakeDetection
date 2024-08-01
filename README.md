@@ -45,9 +45,17 @@ Disharmonious sounds or videos, as well as their mismatches, can be regarded as 
 |[Generation and detection of manipulated multimodal audiovisual content:Advances, trends and open challenges](https://www.sciencedirect.com/science/article/pii/S1566253523004190) | Information Fusion,2024 |
 |[Deepfake Generation and Detection: A Benchmark and Survey](https://arxiv.org/abs/2403.17881) | arxiv,2024 | - |
 
+
+
 ## Commonly used test sets
 
 | Title | Link | Source Link |  
 |:------|:-----|:--------------|
 |[Videosham](https://arxiv.org/abs/2207.13064) | - | [source](https://github.com/adobe-research/VideoSham-dataset) |
 
+
+## Video to audio generation
+|  Title  |   Venue  |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|
+| [Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners](https://arxiv.org/abs/2402.17723) | CVPR2024 | [github](https://github.com/yzxing87/Seeing-and-Hearing) | [demo](https://yzxing87.github.io/Seeing-and-Hearing/) |
+|[Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2306.17203v1) | Nips2023 | [github](https://github.com/luosiallen/Diff-Foley?tab=readme-ov-file)| [demo](https://huggingface.co/SimianLuo/Diff-Foley) |
