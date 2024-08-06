@@ -65,3 +65,4 @@ Disharmonious sounds or videos, as well as their mismatches, can be regarded as 
 |:--------|:--------:|:--------:|:--------:|
 |[SAM 2: Segment Anything in Images and Videos](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)| Meta | [github](https://github.com/facebookresearch/segment-anything-2?tab=readme-ov-file) | [demo](https://sam2.metademolab.com/)
 |[E2FGVI:Towards An End-to-End Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2204.02663) | CVPR2022 |[github](https://github.com/MCG-NKU/E2FGVI/tree/master) | [demo](https://www.youtube.com/watch?v=N--qC3T2wc4)
+|[ProPainter: Improving Propagation and Transformer for Video Inpainting](https://arxiv.org/abs/2309.03897)|ICCV2023|[github](https://github.com/sczhou/propainter)|[demo](https://huggingface.co/spaces/sczhou/ProPainter)
