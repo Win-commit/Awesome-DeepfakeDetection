@@ -53,9 +53,15 @@ Disharmonious sounds or videos, as well as their mismatches, can be regarded as 
 |:------|:-----|:--------------|
 |[Videosham](https://arxiv.org/abs/2207.13064) | - | [source](https://github.com/adobe-research/VideoSham-dataset) |
 
-
+# The tools  creating pipeline to general deepfake
 ## Video to audio generation
 |  Title  |   Venue  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|
 | [Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners](https://arxiv.org/abs/2402.17723) | CVPR2024 | [github](https://github.com/yzxing87/Seeing-and-Hearing) | [demo](https://yzxing87.github.io/Seeing-and-Hearing/) |
 |[Diff-Foley: Synchronized Video-to-Audio Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2306.17203v1) | Nips2023 | [github](https://github.com/luosiallen/Diff-Foley?tab=readme-ov-file)| [demo](https://huggingface.co/SimianLuo/Diff-Foley) |
+
+## Segment and inpainting
+|  Title  |   Venue  |   Code   |   Demo   |
+|:--------|:--------:|:--------:|:--------:|
+|[SAM 2: Segment Anything in Images and Videos](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)| Meta | [github](https://github.com/facebookresearch/segment-anything-2?tab=readme-ov-file) | [demo](https://sam2.metademolab.com/)
+|[E2FGVI:Towards An End-to-End Framework for Flow-Guided Video Inpainting](https://arxiv.org/abs/2204.02663) | CVPR2022 |[github](https://github.com/MCG-NKU/E2FGVI/tree/master) | [demo](https://www.youtube.com/watch?v=N--qC3T2wc4)
